@@ -88,11 +88,11 @@ conter na configuracao a possibilidade de:
 * alterar o status atual.
 
 ## //===========--- RESULTADOS ESPERADOS #
-[] Um codigo que compila no ambiente especificado;
-[] Salve dados no file system;
-[] Carregue os dados do file system apos um reset;
-[] Conecte ao WiFi com ssid e senha da estrutura de configuracao carregado do file system;
-[] Conecte no broker MQTT indicado;
-[] Receba a configuracao somente se validada de alguma forma;
-[] Receba o comando atraves do MQTT para #VAR_04 E #VAR_05 de acionamento;
-[] salvar as alteracoes no file system caso existirem.
+- [ ] Um codigo que compila no ambiente especificado;
+- [ ] Salve dados no file system;
+- [ ] Carregue os dados do file system apos um reset;
+- [ ] Conecte ao WiFi com ssid e senha da estrutura de configuracao carregado do file system;
+- [ ] Conecte no broker MQTT indicado;
+- [ ] Receba a configuracao somente se validada de alguma forma;
+- [ ] Receba o comando atraves do MQTT para #VAR_04 E #VAR_05 de acionamento;
+- [ ] salvar as alteracoes no file system caso existirem.
