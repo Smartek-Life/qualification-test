@@ -19,7 +19,7 @@ OBSERVACOES
 Para tirar duvidas estarei disponível via whatsapp (62) 98577-7262, envia uma mensagem que fazemos uma videochamada.
 
 
-# //===========--- #AMBIENTE DE DESENVOLVIMENTO# ---===========
+# //===========--- #AMBIENTE DE DESENVOLVIMENTO #
 Requisitos>
 *	Possuir alguma placa de prototipagem com ES8266 de 4MB para executar os desafios;
 	* caso sua placa tiver um ESP8266 com flash superior ou inferior a 4MB consultar orientacoes se achar necessario;
@@ -48,16 +48,16 @@ Requisitos>
 	* SSL Suport: All SSL ciphers (most compatible)
 
 
-# //===========--- #APRESENTACAO DOS DESAFIOS# ---===========
+# //===========--- #APRESENTACAO DOS DESAFIOS # 
 Deve estar separado cada desafio com alguma forma de controle de versao, seja por separacao de codigo, branch do GitHub, ou qualquer outro metodo conhecido.
 
-# //===========--- #CRIAR SUA ESTRUTURA BASICA# ---===========
+# //===========--- #CRIAR SUA ESTRUTURA BASICA # 
 Descricao: Estrutura basica de configuracao a ser utilizada em todos os desafios. Estamos disponibilizando a forma em que a estrutura deve ser construida,
 porem aonde esta #VAR_(0,1...n) voce deve criar uma variavel compativel com um tipo e um nome que acredita representar sua atividade, a descricao no comentario explicara o que ela deve fazer.
 A estrutura deve ser construida completamente antes do desafio 01. Retirar os comentarios de explicacao, substituindo por comentarios do que aquela variavel faz, se julgar necessario.
 
 
-# //===========--- #DESAFIO 01 (FILE SYSTEM) # ---===========
+# //===========--- #DESAFIO 01 (FILE SYSTEM) # 
 Neste desafio voce deve preencher a estrutura de configuracao dos desafios e do WiFi, salvar em algum dos sistemas de armazenamento do ESP8266, que possa ser recuperado apos um reset.
 Pode ser utilizado a lib EEPROM com NVS, NVS direto, SPIFFS, ou algum outro metodo para salvar na flash do ESP8266.
 
@@ -73,7 +73,7 @@ Pode ser utilizado a lib EEPROM com NVS, NVS direto, SPIFFS, ou algum outro meto
 		* Gerenciais uma possivel recuperacao das credenciais do wifi.
 
 
-# //===========--- #DESAFIO 02 (WiFi / MQTT)# ---===========
+# //===========--- #DESAFIO 02 (WiFi / MQTT) #
 Neste desafio voce deve carregar a estrutura do file system criada no desafio anterior para a estrutura de configuracao do wifi e do desafio;
 utilizar a estrutura de configuracao para se conectar ao wifi;
 utilizar o protocolo mqtt para se conectar ao broker "broker.mqtt-dashboard.com" para receber configuracoes atraves de um topico "A SUA ESCOLHA";
@@ -87,7 +87,7 @@ conter na configuracao a possibilidade de:
 * selecionar qual sera o acionamento que recebera a configuracao;
 * alterar o status atual.
 
-## Resultados esperados:
+## //===========--- RESULTADOS ESPERADOS #
 [] Um codigo que compila no ambiente especificado;
 [] Salve dados no file system;
 [] Carregue os dados do file system apos um reset;
