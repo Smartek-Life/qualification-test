@@ -1,10 +1,15 @@
 # qualification-test
-Teste de qualificação para desenvolvimento de firmware
+Processo de qualificação para contratação de desenvolvedores para equipe SmartekLife.
+Durante o processo, cada qualificação possui suas regras de avaliação e metodologias específicas.
+
+**ORIENTACAO** Fique atento a mudanças em seu processo dentro da data determinada na avaliação.
+Qualquer alteração será aplicado um commit.
 
 ## Firmware
-Para quem estiver aplicando ao desafio de firmware embarcado.
+Processo de qualificação para desenvolvedores de software embarcado.
 
 ## Hardware
+Processo de qualificação para desenvolvedores de hardware embarcado.
 
 ## Mobile
 
