@@ -12,11 +12,16 @@ Criterios de avaliacao:
 
 Etapas que devem ser rigorosamente cumpridas:
 *	Devem ser criados repositorios separadamente para cada desafio no github;
-*	Os repositorios devem ser privados ate a data final de avaliacao 30/12/2021. Apos tal data fica a seu criterio;
+*	Os repositorios devem ser privados ate a data final de avaliacao 31/12/2021. Apos tal data fica a seu criterio;
+	* Caso tenha alguma restricao para essa data, entrar em contato.
 *	Deve ser convidado o usuario https://github.com/jPerotto para acompanhar, assim facilita tirar dúvidas.
 
 OBSERVACOES
 Para tirar duvidas estarei disponível via whatsapp (62) 98577-7262, envia uma mensagem que fazemos uma videochamada.
+
+ORIENTACAO EXTRA
+Qualquer atualizacao de prazos, regras ou mudanca no teste, sera publicado um commit.
+Entao sincronize o desafio para recebe-las. Qualquer duvida, entrar em contato.
 
 
 # //===========--- #AMBIENTE DE DESENVOLVIMENTO #
