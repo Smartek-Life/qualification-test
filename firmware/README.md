@@ -5,9 +5,11 @@ Disclaimer: Por padrao de programacao e versionamento de codigo, a descricao nao
 Criterios de avaliacao:
 * Qualidade do codigo desenvolvido;
 * Manutenibilidade e legibilidade do codigo;
-* Desejavel: Um codigo utilizando boas praticas/padroes para linguagem C/C++ para reduzir os metodos;
+* Desejavel: Um codigo utilizando boas praticas/padroes para linguagem C/C++ para reduzir os metodos:
 	* Aplicacao de MISRA-C;
 	* Aplicacao de clean code;
+	* Aplicacao de documentacao, seguir o padrao sugerido na estrutura basica;
+	* Seguir o padrao de projetos da SmartekLife, disponivel no [link](https://github.com/Smartek-Life/DESIGN_PATTERN_FIRMWARE);
 * Extra: Utilizar mecanismos de garantia de operacao.
 
 Etapas que devem ser rigorosamente cumpridas:
